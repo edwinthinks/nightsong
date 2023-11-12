@@ -50,6 +50,9 @@ gem "clockwork"
 # Add delayed job for queuing up jobs
 gem 'delayed_job_active_record'
 
+# Add kamal to deploying
+gem 'kamal'
+
 # Use Active Storage variants [https://guides.rubyonrails.org/active_storage_overview.html#transforming-images]
 # gem "image_processing", "~> 1.2"
 
