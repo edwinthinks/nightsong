@@ -1,24 +1,8 @@
-# README
+# Nightsong
+Welcome to Nightsong, a simple Rails application created to transform your Raspberry Pi into a serene audio player for ambient night sounds when it is getting close to bed time.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Contributing
+Contributions to Nightsong are welcome! If you have a suggestion or an improvement, please feel free to fork the repo and create a pull request, or open an issue with the tag "enhancement".
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## License
+This project is licensed under the MIT License.
